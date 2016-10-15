@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author User
+ * @author Emelyanov Konstantin
  */
 public class task5 {
     public static void main(String[] args) {
